@@ -112,7 +112,7 @@ Adds a visual separator and a caption crediting the tools used.
 
 ### Step 1: Clone the repository
 
-```bash
+``bash
 git clone https://github.com/your-username/text-summarization-tool.git
 cd text-summarization-tool
 
