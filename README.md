@@ -38,7 +38,7 @@ The **Text Summarization Tool** is a lightweight web application that allows use
 - [PyTorch](https://pytorch.org/)
 
 
-##🧾 Code Explanation
+### 🧾 Code Explanation
 
 The main application logic is written in app.py using Streamlit and Hugging Face Transformers. Below is a breakdown of the core components:
 
