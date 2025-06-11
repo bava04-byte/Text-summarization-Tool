@@ -41,7 +41,7 @@ The **Text Summarization Tool** is a lightweight web application that allows use
 ### 🧾 Code Explanation
 
 The main application logic is written in app.py using Streamlit and Hugging Face Transformers. Below is a breakdown of the core components:
-
+```bash
 ## 1. Import Required Libraries
 
 import streamlit as st
@@ -112,7 +112,7 @@ Adds a visual separator and a caption crediting the tools used.
 
 ### Step 1: Clone the repository
 
-``bash
+```bash
 git clone https://github.com/your-username/text-summarization-tool.git
 cd text-summarization-tool
 
